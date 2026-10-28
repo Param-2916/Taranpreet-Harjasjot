@@ -1,6 +1,6 @@
 // All wedding data lives here. Card wording is copied exactly from the printed invitation.
 const CONFIG = {
-  siteUrl: "", // TODO: your final GitHub Pages URL (needed for the WhatsApp preview image)
+  siteUrl: "https://param-2916.github.io/Taranpreet-Harjasjot/", // TODO: your final GitHub Pages URL (needed for the WhatsApp preview image)
   assets: { monogram: "assets/monogram.png", song: "assets/song.mp3", video: "assets/film.mp4", ogImage: "assets/monogram.png" },
   couple: { en: ["Taranpreet", "Harjasjot"], pa: ["ਤਰਨਪ੍ਰੀਤ", "ਹਰਜਸਜੋਤ"] },
   ceremony: { start: "2027-01-24T10:00:00+05:30", nowUntil: "2027-01-24T12:00:00+05:30" }, // nowUntil = assumption
